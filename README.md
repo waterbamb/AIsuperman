@@ -28,7 +28,7 @@ AI驱动的个人任务全生命周期管理：自动拆解复杂任务、按优
 
 ## 快速上手
 ### 部署指南：托管至零克云 (gpulink.cc)
-零克云 https://gpulink.cc  是面向AI应用的轻量化托管平台，支持快速部署Python应用，以下是AIsuperman的完整部署流程：
+零克云 https://gpulink.cc  是AI应用的智能部署平台，以下是AIsuperman的完整部署流程：
 
 #### 步骤1：准备工作
 1. 注册并登录零克云官网：[https://gpulink.cc](https://gpulink.cc)；
